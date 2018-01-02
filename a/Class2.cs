@@ -8,6 +8,6 @@ namespace a
 {
     class Class2
     {
-        int j = 2222;
+        int j = 222222;
     }
 }
