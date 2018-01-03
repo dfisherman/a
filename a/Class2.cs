@@ -9,5 +9,6 @@ namespace a
     class Class2
     {
         int j = 222222;
+        int i = 22;
     }
 }
