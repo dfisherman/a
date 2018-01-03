@@ -10,5 +10,6 @@ namespace a
     {
         int j = 222222;
         int i = 22;
+        int k = 2;
     }
 }
