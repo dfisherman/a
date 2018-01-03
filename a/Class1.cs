@@ -9,5 +9,6 @@ namespace a
     public class Class1
     {
         int i = 111111;
+        int j = 11;
     }
 }
